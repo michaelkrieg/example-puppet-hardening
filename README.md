@@ -41,8 +41,7 @@ That's it. Enjoy testing your box via:
 
 ## Contributors + Kudos
 
-...
-
+* Michael Krieg [michaelkrieg](https://github.com/michaelkrieg)
 
 ## License and Author
 
